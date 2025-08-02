@@ -62,7 +62,9 @@ A complete project report is included in this repository. It provides:
 - SQL methodology
 - Screenshots of query outputs
 - Business insights
-- 
-
+  
+##  Let's Connect
+- Mail - Krishnajadhav8343@gmail.com
+- LinkedIN - https://www.linkedin.com/in/krishna-jadhav-a8801b214/
 
 
